@@ -99,7 +99,7 @@ I would also use SASS instead of the normal CSS, for a more organized approach t
 ## Author
 
 - MOHAMMED MUKAILA
-FACEBOOK PAGE: mohammed.mukaila11
+- FACEBOOK PAGE: mohammed.mukaila11
 
 
 
