@@ -64,8 +64,10 @@ How to use JQueries, JQuery Event Handlers, etc
 
 ```html
     <title>Pomodoro-app</title>
-  
 ```
+```
+  
+```CSS
 body {
   color: hsl(226, 100%, 92%);
   background-color: hsl(236, 36%, 18%);
